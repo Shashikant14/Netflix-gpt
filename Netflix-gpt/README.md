@@ -1,6 +1,12 @@
 #Netflix-Gpt
 - create-react-app
 - configure tailwind.css
+- Header
+- Routing of App
+- Login Page
+- SignIn/SignUp form
+- Form Validation
+- useRef hook
 
 
 #features:
